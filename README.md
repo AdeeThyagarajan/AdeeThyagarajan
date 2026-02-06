@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I’m Adhith 👋  
+Product focused Data and AI Engineer
 
-<!--
-**AdeeThyagarajan/AdeeThyagarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of data, product, and applied AI. I design systems that help people think clearly, make better decisions, and actually use what we build.
 
-Here are some ideas to get you started:
+I have over seven years of experience across aviation, retail, fintech, energy, and digital media, and I build personal AI projects that explore behaviour, reasoning, and constraint driven design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+**Bromingo**  
+AI persona and behaviour engine focused on consistent, context aware conversational behaviour  
+[Bromingo](https://bromingo-u9en.vercel.app)
+
+**Nicollo**  
+AI assisted product design system that turns vague ideas into structured, delivery ready plans  
+[Nicollo](https://nicollo-aidev.vercel.app/projects)
+
+## 🛠️ Tools
+
+SQL, Python  
+Tableau, Looker, Power BI  
+BigQuery, Snowflake, AWS, Azure  
+LLM prompt design and workflow orchestration
+
+📫  
+[LinkedIn](https://www.linkedin.com/in/adhith-thyagarajan-24028016b/) 
+[Portfolio](https://adhiththyagarajan.vercel.app/)  
+[Email](adithyagarajan@gmail.com)
