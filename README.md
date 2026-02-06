@@ -23,6 +23,6 @@ BigQuery, Snowflake, AWS, Azure
 LLM prompt design and workflow orchestration
 
 📫  
-[LinkedIn](https://www.linkedin.com/in/adhith-thyagarajan-24028016b/) 
+[LinkedIn](https://www.linkedin.com/in/adhith-thyagarajan-24028016b/) ,
 [Portfolio](https://adhiththyagarajan.vercel.app/)  
 [Email](adithyagarajan@gmail.com)
