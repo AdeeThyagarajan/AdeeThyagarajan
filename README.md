@@ -1,5 +1,4 @@
-## Hi, I’m Adhith 👋  
-Product focused Data and AI Engineer
+## Hi there, I’m Adhith 👋  
 
 I work at the intersection of data, product, and applied AI. I design systems that help people think clearly, make better decisions, and actually use what we build.
 
