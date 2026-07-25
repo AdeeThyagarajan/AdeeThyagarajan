@@ -4,16 +4,6 @@ I work at the intersection of data, product, and applied AI. I design systems th
 
 I have over seven years of experience across aviation, retail, fintech, energy, and digital media, and I build personal AI projects that explore behaviour, reasoning, and constraint driven design.
 
-## 🚀 Projects
-
-**Bromingo**  
-AI persona and behaviour engine focused on consistent, context aware conversational behaviour  
-[Bromingo](https://bromingo-u9en.vercel.app)
-
-**Nicollo**  
-AI assisted product design system that turns vague ideas into structured, delivery ready plans  
-[Nicollo](https://nicollo-aidev.vercel.app/projects)
-
 ## 🛠️ Tools
 
 SQL, Python  
